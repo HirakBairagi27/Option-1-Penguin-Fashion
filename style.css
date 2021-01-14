@@ -1,0 +1,10 @@
+.navbar{
+    margin: left right 5px;
+}
+.card img{
+    height: 70%;
+    background-color: lightgray;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5em;
+    padding: 5px;
+}
